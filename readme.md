@@ -1,7 +1,7 @@
 
-Repository contains both python server and python and java clients.
+# Repository contains both python server and python and java clients.
 
-For start server :
+## For start server :
 
 python3 server.py 1 // for start server with 1 version protocol
 
