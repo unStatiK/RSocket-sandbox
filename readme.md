@@ -14,12 +14,12 @@ For clients :
 
 Protocol description:
 
-- 1 version
+- 1 version: 
 Use only protobuf data, container wrapper contains message type and message data
 
-- 2 version
+- 2 version:
 Use pure protobuf message data without wrapper, message type is contained in the headers as integer
 
 
-- 2 version
+- 2 version:
 Use pure protobuf message data without wrapper, message type is contained in the headers as byte opcode
